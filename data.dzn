@@ -1,0 +1,7 @@
+nmeals = 6; 
+
+name = ["Owoce", "Frytki", "Sałatka", "Skrzydełka", "Paluszki", "Zestaw próbny"];
+
+price = [215, 275, 335, 355, 420, 580];
+
+budget = 1505;
